@@ -1,0 +1,5 @@
+DTBconnect\ConnectDatabase.class
+Dao\ContactDao.class
+model\Contact.class
+model\Group.class
+validate\Validate.class
